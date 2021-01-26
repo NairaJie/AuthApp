@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "502235551002",
+    "project_id": "idn-school-project-d24e8",
+    "storage_bucket": "idn-school-project-d24e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502235551002:android:40aaf9168a6c5bbe6e48a3",
+        "android_client_info": {
+          "package_name": "com.nailah.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502235551002-i83bt7h28ipavmpuqllgbr2dh8j2fiqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nailah.authapp",
+            "certificate_hash": "39244dfbaf373daba09bf11173a4d9f1a03bcca0"
+          }
+        },
+        {
+          "client_id": "502235551002-6qurprvug345ckicgig2if3b88gr20s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCat9Pk2QtzvcJCwC-T96Xc7NslDF84_pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502235551002-6qurprvug345ckicgig2if3b88gr20s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
